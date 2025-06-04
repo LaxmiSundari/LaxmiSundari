@@ -8,7 +8,6 @@
 - 💻 Java backend developer with **8+ years** of experience  
 - ☁️ Microsoft Certified in **Azure Fundamentals (AZ-900)**  
 - 🧩 Passionate about building **microservices**, **REST APIs**, and **cloud-native applications**  
-- 🛠️ Volunteer developer at SK Soft Systems while on H4 visa, actively contributing to projects and learning  
 - 🌱 Currently focused on **Spring Security**, **Docker**, **AWS**, and **Kubernetes**
 
 ---
