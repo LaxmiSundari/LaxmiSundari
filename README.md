@@ -3,14 +3,23 @@
 
 ---
 
+
 ### 🔥 About Me
 
-- 💻 Java backend developer with **8+ years** of experience  
-- ☁️ Microsoft Certified in **Azure Fundamentals (AZ-900)**  
-- 🧩 Passionate about building **microservices**, **REST APIs**, and **cloud-native applications**  
-- 🌱 Currently focused on **Spring Security**, **Docker**, **AWS**, and **Kubernetes**
+I'm Venkata Laxmi Sundari Viswanadha, a highly motivated and experienced **Senior Java Backend Developer** with over **8 years of expertise** in building scalable, secure, and high-performance backend systems.
+
+Throughout my career, I’ve specialized in **Java**, **Spring Boot**, **RESTful APIs**, and **microservices architecture**, delivering reliable and maintainable solutions for enterprise-scale applications. My core strength lies in designing robust services, optimizing backend logic, and integrating real-time data pipelines using **Apache Kafka**.
+
+I have hands-on experience working across **cloud platforms (AWS, Azure)**, containerization using **Docker**, orchestration via **Kubernetes**, and CI/CD workflows with **Jenkins** and **GitHub Actions**. I'm equally comfortable working with relational and NoSQL databases like **MySQL**, **Oracle**, **MongoDB**, **Cassandra**, and **Apache Ignite**.
+
+Previously, I’ve worked with cross-functional teams to modernize banking systems, improve API performance, and implement cloud-native features that significantly enhanced operational efficiency and customer experience.
+
+I'm always looking to explore new technologies, follow best practices, and contribute to clean, efficient, and scalable codebases.
+
+> “Clean code, thoughtful design, and continuous learning are the principles I strive to follow every day as a developer.”
 
 ---
+
 
 ### 🧰 Tech Stack
 
